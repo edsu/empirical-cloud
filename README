@@ -8,6 +8,6 @@ zgrep -h 'http://www.w3.org/2002/07/owl#sameAs' data/btc-2010-chunk-*.gz | \
     scripts/quadtab.pl | \
     scripts/sameas.py | \
     sort | uniq -c | sort -rn | \
-    scripts/jsonify.py > docs/sames.js
+    scripts/jsonify.py > docs/sameas.js
 
 You'll need to have recent-ish versions of Perl, Python and pygraph installed.
