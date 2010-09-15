@@ -23,7 +23,7 @@ def get_dataset(hostname):
 
 
 for line in fileinput.input():
-    match = re.match(r'^ +(\d+) (.+) -> (.+)$', line)
+    match = re.match(r'^ *(\d+) (.+) -> (.+)$', line)
 
     num_links = int(match.group(1))
     h1 = match.group(2)
@@ -50,4 +50,4 @@ g.bind('dcterms', DCTERMS)
 g.bind('void', VOID)
 g.bind('foaf', FOAF)
 g.bind('owl', OWL)
-print g.serialize(format='n3')
+print g.serialize()

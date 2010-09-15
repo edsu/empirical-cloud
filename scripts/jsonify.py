@@ -9,7 +9,7 @@ import pygraph
 g = pygraph.graph()
 
 for line in fileinput.input():
-    match = re.match(r'^ +(\d+) (.+) -> (.+)$', line)
+    match = re.match(r'^ *(\d+) (.+) -> (.+)$', line)
     h1, h2 = match.groups()[1:3]
     num_links = int(match.group(1))
     if num_links > 13:
