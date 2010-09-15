@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:void="http://rdfs.org/ns/void#"
+>
+  <rdf:Description rdf:nodeID="keMyUHGw102">
+    <foaf:homepage rdf:resource="http://demo.openlinksw.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>demo.openlinksw.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw41">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw39"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13550</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw151">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw150"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">217</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw29">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw21"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23026</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw251">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw250"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw74">
+    <foaf:homepage rdf:resource="http://semanticweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>semanticweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw43">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw34"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6505</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw126">
+    <foaf:homepage rdf:resource="http://fr.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>fr.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw264">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw263"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw221">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw220"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw285">
+    <foaf:homepage rdf:resource="http://openlylocal.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>openlylocal.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw82">
+    <foaf:homepage rdf:resource="http://psi.oasis-open.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>psi.oasis-open.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw85">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw84"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">831</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw325">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw324"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw231">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw37"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw230"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw66">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw65"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw64"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1436</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw320">
+    <foaf:homepage rdf:resource="http://www.hbo.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.hbo.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw156">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw155"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw372">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw371"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw2">
+    <foaf:homepage rdf:resource="http://dblp.l3s.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dblp.l3s.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw224">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw223"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw348">
+    <foaf:homepage rdf:resource="http://www.wikier.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.wikier.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw291">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw290"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw306">
+    <foaf:homepage rdf:resource="http://acl.ldc.upenn.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>acl.ldc.upenn.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw90">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw89"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw55"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">702</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw141">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw2"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">237</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw300">
+    <foaf:homepage rdf:resource="http://citeseerx.ist.psu.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>citeseerx.ist.psu.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw73">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw72"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw34"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1182</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw341">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw56"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw131"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw199">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw198"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw197"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw240">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw239"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw319">
+    <foaf:homepage rdf:resource="http://www.tv.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.tv.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw61">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw37"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw10"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1669</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw161">
+    <foaf:homepage rdf:resource="http://twitter.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>twitter.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw213">
+    <foaf:homepage rdf:resource="http://miltonkeynes.openguides.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>miltonkeynes.openguides.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw262">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw261"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw207">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw206"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw91">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw76"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw55"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">660</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw48">
+    <foaf:homepage rdf:resource="http://purl.uniprot.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>purl.uniprot.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw274">
+    <foaf:homepage rdf:resource="http://homepages.cwi.nl"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>homepages.cwi.nl</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw158">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw157"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw169">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw56"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">136</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw117">
+    <foaf:homepage rdf:resource="http://de.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>de.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw191">
+    <foaf:homepage rdf:resource="http://www.kde.cs.uni-kassel.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.kde.cs.uni-kassel.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw314">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw313"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw128">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw33"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw10"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">288</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw9">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw8"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">326336</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw30">
+    <foaf:homepage rdf:resource="http://bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw294">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw200"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw285"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw185">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw184"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw182"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw165">
+    <foaf:homepage rdf:resource="http://acm.rkbexplorer.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>acm.rkbexplorer.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw227">
+    <foaf:homepage rdf:resource="http://id.ecs.soton.ac.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>id.ecs.soton.ac.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw84">
+    <foaf:homepage rdf:resource="http://wikicompany.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>wikicompany.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw374">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw373"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw34"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw333">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw332"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw68">
+    <foaf:homepage rdf:resource="http://www.eionet.europa.eu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.eionet.europa.eu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw72">
+    <foaf:homepage rdf:resource="http://rdf.insee.fr"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>rdf.insee.fr</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw170">
+    <foaf:homepage rdf:resource="http://www.aifb.kit.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.aifb.kit.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw282">
+    <foaf:homepage rdf:resource="http://ex.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ex.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw327">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw326"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw168">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw167"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">157</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw96">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw31"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">566</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw220">
+    <foaf:homepage rdf:resource="http://pl.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>pl.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw303">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw302"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw138">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw137"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw153">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw152"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">176</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw267">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw131"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw123">
+    <foaf:homepage rdf:resource="http://data-gov.tw.rpi.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data-gov.tw.rpi.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw89">
+    <foaf:homepage rdf:resource="http://www.eswc2006.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.eswc2006.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw104">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw67"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw86"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">495</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw63">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw62"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1488</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw76">
+    <foaf:homepage rdf:resource="http://revyu.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>revyu.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw196">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw195"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw250">
+    <foaf:homepage rdf:resource="http://nl.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>nl.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw214">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw213"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw76"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw277">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw276"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw223">
+    <foaf:homepage rdf:resource="http://www.sciencemag.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.sciencemag.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw346">
+    <foaf:homepage rdf:resource="http://www.kr.tuwien.ac.at"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.kr.tuwien.ac.at</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw295">
+    <foaf:homepage rdf:resource="http://ieeexplore.ieee.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ieeexplore.ieee.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw307">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw306"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw324">
+    <foaf:homepage rdf:resource="http://www.cs.bham.ac.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.cs.bham.ac.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw284">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw283"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw282"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw40">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw10"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw39"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14695</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw112">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw111"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">418</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw129">
+    <foaf:homepage rdf:resource="http://www.techpresentations.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.techpresentations.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw219">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw59"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw228">
+    <foaf:homepage rdf:resource="http://eprints.ecs.soton.ac.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>eprints.ecs.soton.ac.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw287">
+    <foaf:homepage rdf:resource="http://miskinhill.com.au"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>miskinhill.com.au</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw106">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw17"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw86"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">469</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw304">
+    <foaf:homepage rdf:resource="http://ceur-ws.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ceur-ws.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw132">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw131"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">270</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw111">
+    <foaf:homepage rdf:resource="http://dx.doi.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dx.doi.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw344">
+    <foaf:homepage rdf:resource="http://no.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>no.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw209">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw208"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw336">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw335"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw334"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw195">
+    <foaf:homepage rdf:resource="http://es.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>es.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw192">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw191"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw253">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw252"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw247">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw246"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw202">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw201"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw200"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw97">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw39"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">556</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw69">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw68"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw67"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1349</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw266">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw265"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw259">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw30"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw258"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw208">
+    <foaf:homepage rdf:resource="http://arxiv.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>arxiv.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw55">
+    <foaf:homepage rdf:resource="http://data.semanticweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.semanticweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw172">
+    <foaf:homepage rdf:resource="http://apassant.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>apassant.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw12">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw10"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">241206</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw360">
+    <foaf:homepage rdf:resource="http://spreadsheet.google.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>spreadsheet.google.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw241">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw230"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw235">
+    <foaf:homepage rdf:resource="http://norman.walsh.name"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>norman.walsh.name</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw318">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw317"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw352">
+    <foaf:homepage rdf:resource="http://publications.andreas.schmidt.name"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>publications.andreas.schmidt.name</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw52">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw50"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw23"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2537</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw225">
+    <foaf:homepage rdf:resource="http://tr.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>tr.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw246">
+    <foaf:homepage rdf:resource="http://www.amazon.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.amazon.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw326">
+    <foaf:homepage rdf:resource="http://www.se.eecs.uni-kassel.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.se.eecs.uni-kassel.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw271">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw270"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw310">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw14"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw21"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw50">
+    <foaf:homepage rdf:resource="http://zitgist.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>zitgist.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw6">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw5"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw2"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366074</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw54">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw53"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2437</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw22">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw21"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44990</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw330">
+    <foaf:homepage rdf:resource="http://www.pharmagkb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.pharmagkb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw51">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw50"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3134</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw140">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw139"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw301">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw300"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw288">
+    <foaf:homepage rdf:resource="http://en.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>en.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw92">
+    <foaf:homepage rdf:resource="http://symbol.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>symbol.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw101">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw100"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">517</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw33">
+    <foaf:homepage rdf:resource="http://www.rdfabout.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.rdfabout.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw148">
+    <foaf:homepage rdf:resource="http://iswc2007.semanticweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>iswc2007.semanticweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw292">
+    <foaf:homepage rdf:resource="http://pele.farmbio.uu.se"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>pele.farmbio.uu.se</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw31">
+    <foaf:homepage rdf:resource="http://purl.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>purl.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw369">
+    <foaf:homepage rdf:resource="http://www.aaai.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.aaai.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw109">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw108"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">446</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw313">
+    <foaf:homepage rdf:resource="http://www.daml.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.daml.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw329">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw328"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw370">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw369"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw42">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6782</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw62">
+    <foaf:homepage rdf:resource="http://refseq.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>refseq.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw243">
+    <foaf:homepage rdf:resource="http://www.ivan-herman.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ivan-herman.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw265">
+    <foaf:homepage rdf:resource="http://pubchem.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>pubchem.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw173">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw172"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw103">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw102"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">512</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw80">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1020</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw177">
+    <foaf:homepage rdf:resource="http://ja.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ja.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw343">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw342"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw10"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw258">
+    <foaf:homepage rdf:resource="http://rdf.openmolecules.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>rdf.openmolecules.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw255">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw254"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw217">
+    <foaf:homepage rdf:resource="http://intact.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>intact.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw257">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw256"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw222">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw10"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw37">
+    <foaf:homepage rdf:resource="http://www.bbc.co.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.bbc.co.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw28">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23187</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw105">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw23"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">475</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw316">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw315"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw145">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw144"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">235</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw276">
+    <foaf:homepage rdf:resource="http://harth.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>harth.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw210">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw59"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw347">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw346"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw188">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw187"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw77">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw76"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1095</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw229">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw228"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw227"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw349">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw348"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw134">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw133"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">249</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw125">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw14"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">306</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw18">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw2"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86533</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw363">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw362"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw176">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw175"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw194">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw193"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw286">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw285"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw113">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw31"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">410</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw179">
+    <foaf:homepage rdf:resource="http://sdow.semanticweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sdow.semanticweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw340">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw5"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw339"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw197">
+    <foaf:homepage rdf:resource="http://www.dapcentral.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.dapcentral.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw152">
+    <foaf:homepage rdf:resource="http://www.linkedin.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.linkedin.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw25">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw19"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw23"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34511</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw94">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw39"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw10"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">576</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw45">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw44"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4940</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw56">
+    <foaf:homepage rdf:resource="http://ontoworld.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ontoworld.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw354">
+    <foaf:homepage rdf:resource="http://topbraid.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>topbraid.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw133">
+    <foaf:homepage rdf:resource="http://www.deri.ie"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.deri.ie</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw263">
+    <foaf:homepage rdf:resource="http://dewey.petra.ac.id"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dewey.petra.ac.id</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw332">
+    <foaf:homepage rdf:resource="http://pt.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>pt.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw186">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw79"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw359">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw148"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw114">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw36"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">363</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw149">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw148"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw55"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">222</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw137">
+    <foaf:homepage rdf:resource="http://mhausenblas.myopenid.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>mhausenblas.myopenid.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw355">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw354"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw27">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw26"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23534</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw164">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw163"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw143">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw142"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">236</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw110">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw33"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">419</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw275">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw274"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw305">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw304"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw238">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw237"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw46">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw14"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4287</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw296">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw295"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw5">
+    <foaf:homepage rdf:resource="http://dblp.rkbexplorer.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dblp.rkbexplorer.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw159">
+    <foaf:homepage rdf:resource="http://www.cwi.nl"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.cwi.nl</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw16">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw15"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">123189</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw107">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw33"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">452</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw315">
+    <foaf:homepage rdf:resource="http://doi.acm.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>doi.acm.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw118">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw117"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">346</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw272">
+    <foaf:homepage rdf:resource="http://www.ietf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ietf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw21">
+    <foaf:homepage rdf:resource="http://umbel.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>umbel.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw190">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw189"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw350">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw59"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw76"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw184">
+    <foaf:homepage rdf:resource="http://worldcat.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>worldcat.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw308">
+    <foaf:homepage rdf:resource="http://uriplay.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>uriplay.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw335">
+    <foaf:homepage rdf:resource="http://lsid.tdwg.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>lsid.tdwg.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw248">
+    <foaf:homepage rdf:resource="http://tommorris.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>tommorris.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw57">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw56"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw55"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1945</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw373">
+    <foaf:homepage rdf:resource="http://www.ordnancesurvey.co.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ordnancesurvey.co.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw98">
+    <foaf:homepage rdf:resource="http://www.uniprot.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.uniprot.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw142">
+    <foaf:homepage rdf:resource="http://www.aifb.uni-karlsruhe.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.aifb.uni-karlsruhe.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw361">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw360"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw32">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw31"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20286</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw323">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw322"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw189">
+    <foaf:homepage rdf:resource="http://semantic-mediawiki.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>semantic-mediawiki.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw180">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw179"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw47">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4026</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw201">
+    <foaf:homepage rdf:resource="http://data.ordnancesurvey.co.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.ordnancesurvey.co.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw146">
+    <foaf:homepage rdf:resource="http://zh.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>zh.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw278">
+    <foaf:homepage rdf:resource="http://rs.tdwg.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>rs.tdwg.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw167">
+    <foaf:homepage rdf:resource="http://cpd.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>cpd.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw58">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw39"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1778</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw293">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw292"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw258"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw376">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw375"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw183">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw17"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw182"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw44">
+    <foaf:homepage rdf:resource="http://www.dbpedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.dbpedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw15">
+    <foaf:homepage rdf:resource="http://sw.cyc.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sw.cyc.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw281">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw280"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw357">
+    <foaf:homepage rdf:resource="http://sunsite.informatik.rwth-aachen.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sunsite.informatik.rwth-aachen.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw120">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw10"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">336</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw338">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw337"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw17">
+    <foaf:homepage rdf:resource="http://www4.wiwiss.fu-berlin.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www4.wiwiss.fu-berlin.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw366">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw364"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw155">
+    <foaf:homepage rdf:resource="http://www.twine.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.twine.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw35">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw33"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15459</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw130">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw129"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">284</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw260">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw55"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw39">
+    <foaf:homepage rdf:resource="http://data.nytimes.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.nytimes.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw81">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw17"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">935</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw171">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw170"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">135</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw339">
+    <foaf:homepage rdf:resource="http://users.ecs.soton.ac.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>users.ecs.soton.ac.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw297">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw258"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw252">
+    <foaf:homepage rdf:resource="http://www.springerlink.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.springerlink.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw70">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw67"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw68"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1346</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw95">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw21"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">573</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw205">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw33"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw239">
+    <foaf:homepage rdf:resource="http://myspace.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>myspace.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw234">
+    <foaf:homepage rdf:resource="http://www.flickr.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.flickr.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw163">
+    <foaf:homepage rdf:resource="http://identi.ca"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>identi.ca</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw178">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw177"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw49">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw48"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3588</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw211">
+    <foaf:homepage rdf:resource="http://wordnet.rkbexplorer.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>wordnet.rkbexplorer.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw162">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw161"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw244">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw243"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw311">
+    <foaf:homepage rdf:resource="http://cas.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>cas.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw233">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw232"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw230"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw345">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw344"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw119">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw37"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">340</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw139">
+    <foaf:homepage rdf:resource="http://community.linkeddata.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>community.linkeddata.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw24">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw23"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35008</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw116">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw115"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">359</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw331">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw330"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw31"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw23">
+    <foaf:homepage rdf:resource="http://data.linkedmdb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.linkedmdb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw371">
+    <foaf:homepage rdf:resource="http://ftp.cwi.nl"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ftp.cwi.nl</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw174">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw55"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw76"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">126</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw122">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw121"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">325</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw10">
+    <foaf:homepage rdf:resource="http://rdf.freebase.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>rdf.freebase.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw115">
+    <foaf:homepage rdf:resource="http://downlode.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>downlode.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw78">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw50"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1056</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw166">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw165"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw108">
+    <foaf:homepage rdf:resource="http://www.sciencedirect.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.sciencedirect.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw160">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw159"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">162</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw60">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw59"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1680</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw187">
+    <foaf:homepage rdf:resource="http://semantic-web-grundlagen.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>semantic-web-grundlagen.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw337">
+    <foaf:homepage rdf:resource="http://theory.lcs.mit.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>theory.lcs.mit.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw53">
+    <foaf:homepage rdf:resource="http://uniprot.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>uniprot.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw261">
+    <foaf:homepage rdf:resource="http://social.semantic-web.at"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>social.semantic-web.at</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw273">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw272"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw268">
+    <foaf:homepage rdf:resource="http://xmlns.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>xmlns.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw20">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw19"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75720</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw269">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw268"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw309">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw31"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw308"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw154">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw17"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw14"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">171</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw216">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw215"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw206">
+    <foaf:homepage rdf:resource="http://data.openlinksw.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.openlinksw.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw121">
+    <foaf:homepage rdf:resource="http://portal.acm.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>portal.acm.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw312">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw311"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw242">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw142"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw270">
+    <foaf:homepage rdf:resource="http://www.ncbi.nlm.nih.gov"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ncbi.nlm.nih.gov</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw93">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw92"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">632</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw342">
+    <foaf:homepage rdf:resource="http://www.worldofspectrum.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.worldofspectrum.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw34">
+    <foaf:homepage rdf:resource="http://sws.geonames.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sws.geonames.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw256">
+    <foaf:homepage rdf:resource="http://it.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>it.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw322">
+    <foaf:homepage rdf:resource="http://www.informaworld.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.informaworld.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw3">
+    <foaf:homepage rdf:resource="http://bibsonomy.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>bibsonomy.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw226">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw225"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw365">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw364"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw230">
+    <foaf:homepage rdf:resource="http://www.surgeradio.co.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.surgeradio.co.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw321">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw320"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw319"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw100">
+    <foaf:homepage rdf:resource="http://dilettantes.code4lib.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dilettantes.code4lib.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw181">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw123"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw299">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw30"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw292"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw4">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw3"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw2"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">366902</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw36">
+    <foaf:homepage rdf:resource="http://dbtune.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dbtune.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw65">
+    <foaf:homepage rdf:resource="http://species.geospecies.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>species.geospecies.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw182">
+    <foaf:homepage rdf:resource="http://vibi.vili.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>vibi.vili.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw249">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw161"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw248"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw64">
+    <foaf:homepage rdf:resource="http://lod.geospecies.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>lod.geospecies.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw67">
+    <foaf:homepage rdf:resource="http://www.geonames.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.geonames.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw334">
+    <foaf:homepage rdf:resource="http://biodiversity.org.au"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>biodiversity.org.au</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw193">
+    <foaf:homepage rdf:resource="http://sv.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sv.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw86">
+    <foaf:homepage rdf:resource="http://telegraphis.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>telegraphis.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw280">
+    <foaf:homepage rdf:resource="http://citeseer.ist.psu.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>citeseer.ist.psu.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw279">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw59"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw278"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw368">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw367"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw13">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw10"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw11"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">129888</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw215">
+    <foaf:homepage rdf:resource="http://ru.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>ru.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw328">
+    <foaf:homepage rdf:resource="http://annotation.semanticweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>annotation.semanticweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw351">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw31"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw330"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw11">
+    <foaf:homepage rdf:resource="http://dbpedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dbpedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw236">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw235"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw234"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw157">
+    <foaf:homepage rdf:resource="http://www.slideshare.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.slideshare.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw245">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw74"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw76"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw358">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw357"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw8">
+    <foaf:homepage rdf:resource="http://dblp.uni-trier.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>dblp.uni-trier.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw26">
+    <foaf:homepage rdf:resource="http://data.linkedct.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>data.linkedct.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw135">
+    <foaf:homepage rdf:resource="http://sw-app.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sw-app.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw19">
+    <foaf:homepage rdf:resource="http://mpii.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>mpii.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw198">
+    <foaf:homepage rdf:resource="http://www.ericdsnider.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ericdsnider.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw290">
+    <foaf:homepage rdf:resource="http://www.informatik.uni-trier.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.informatik.uni-trier.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw124">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw123"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">324</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw83">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw82"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">900</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw356">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw115"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw282"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw254">
+    <foaf:homepage rdf:resource="http://www.aclweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.aclweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw298">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw258"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw292"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw150">
+    <foaf:homepage rdf:resource="http://gso.gbv.de"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>gso.gbv.de</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw88">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw86"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">733</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw59">
+    <foaf:homepage rdf:resource="http://www.w3.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.w3.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw71">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw11"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw17"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1214</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw75">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw74"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw55"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1172</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw38">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw37"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14990</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw283">
+    <foaf:homepage rdf:resource="http://rdfweb.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>rdfweb.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw353">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw352"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw7"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw367">
+    <foaf:homepage rdf:resource="http://www.cs.vu.nl"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.cs.vu.nl</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw212">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw211"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw375">
+    <foaf:homepage rdf:resource="http://www.cs.uga.edu"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.cs.uga.edu</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw289">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw288"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw287"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw204">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw203"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw79"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw131">
+    <foaf:homepage rdf:resource="http://simia.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>simia.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw87">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw34"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw86"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">737</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw99">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw48"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw98"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">548</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw14">
+    <foaf:homepage rdf:resource="http://sw.opencyc.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>sw.opencyc.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw302">
+    <foaf:homepage rdf:resource="http://www.ontopia.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.ontopia.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw175">
+    <foaf:homepage rdf:resource="http://fi.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>fi.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw362">
+    <foaf:homepage rdf:resource="http://da.wikipedia.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>da.wikipedia.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw218">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw217"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw30"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw136">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw135"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw74"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">248</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw144">
+    <foaf:homepage rdf:resource="http://korrekt.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>korrekt.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw200">
+    <foaf:homepage rdf:resource="http://statistics.data.gov.uk"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>statistics.data.gov.uk</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw147">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw146"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">233</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw79">
+    <foaf:homepage rdf:resource="http://www.lingvoj.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.lingvoj.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw317">
+    <foaf:homepage rdf:resource="http://repository.petra.ac.id"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>repository.petra.ac.id</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw237">
+    <foaf:homepage rdf:resource="http://chebi.bio2rdf.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>chebi.bio2rdf.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw7">
+    <foaf:homepage rdf:resource="http://www.bibsonomy.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.bibsonomy.org</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw364">
+    <foaf:homepage rdf:resource="http://www.telegraphis.net"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>www.telegraphis.net</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw127">
+    <void:linkPredicate rdf:resource="http://www.w3.org/2002/07/owl#sameAs"/>
+    <void:objectsTarget rdf:nodeID="keMyUHGw126"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#LinkSet"/>
+    <void:subjectsTarget rdf:nodeID="keMyUHGw36"/>
+    <void:numberOfTriples rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">299</void:numberOfTriples>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw203">
+    <foaf:homepage rdf:resource="http://courseware.rkbexplorer.com"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>courseware.rkbexplorer.com</dcterms:title>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="keMyUHGw232">
+    <foaf:homepage rdf:resource="http://musicbrainz.org"/>
+    <rdf:type rdf:resource="http://rdfs.org/ns/void#Dataset"/>
+    <dcterms:title>musicbrainz.org</dcterms:title>
+  </rdf:Description>
+</rdf:RDF>
+
