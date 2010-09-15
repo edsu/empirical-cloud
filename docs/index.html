@@ -1,56 +1,82 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <link rel="alternate" type="application/rdf+xml" href="sameas.rdf">
+        <link rel="alternate" type="text/turtle" href="sameas.ttl">
         <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
         <style type="text/css">
             body {
                 margin-left: 10%;
                 margin-right: 10%;
-                margin-top: 20px;
                 font-family: "Inconsolata";
             }
             h1 {
-                text-decoration: underline;
-            }
-            #graph_console: {
-                margin-left: auto;
-                margin-right: auto;
+                font-size: 36pt;
                 text-align: center;
+                margin-bottom: 40px;
+            }
+            #content {
+                width: 90%;
+            }
+            #graph_console {
+                float: left;
+                width: 60%;
             }
             #graph {
-                height: 350px;
+                height: 450px;
                 width: 90%;
+                border-color: ltgray;
+            }
+            #about {
             }
         </style>
     </head>
     <body>
         <h1>Empirical Cloud</h1>
+        <div id="content">
+        <div id="graph_console">
+            <iframe id="graph" src="sameas.html"></iframe>
+        </div>
+        <div id="about">
         <p>
-        Below is a graph of <a
+        This is a graph of <a
             href="http://www.w3.org/TR/owl-ref/#sameAs-def">owl:sameAs</a> 
-        links between domain names in the 
+        links between hosts in the 
         <a href="http://challenge.semanticweb.org/">Billion Triple Challenge</a>
         data. It is probably best viewed with a 
-        webkit browser like Chrome or Safari.  In order to make the graph 
-        somewhat viewable it was limited to hosts that had more than 10 
-        links between each other. You should be able to zoom in on portions 
-        of the graph, and to hover over a node to see the hostname. 
+        webkit browser like Chrome or Safari.
+        </p>
+        
+        <p>In order to make the graph 
+        somewhat viewable it was limited to hosts that shared 10 
+        or more links. You should be able to zoom/pan on portions 
+        of the graph, and hover over a node to see the hostname. 
         Node colors reflect 
-        <span style="color: lightgreen;">org|org.*</span>
-        <span style="color: yellow;">com|co.*</span>
-        <span style="color: orange;">gov</span>
-        <span style="color: red;">edu|ac.*</span>
-        <span style="color: pink;">net</span>
+        <span style="color: lightgreen;">org</span>, 
+        <span style="color: yellow;">com</span>, 
+        <span style="color: orange;">gov</span>, 
+        <span style="color: red;">edu</span>, 
+        <span style="color: pink;">net</span>, 
         <span style="color: white; background-color: black;">other</span>.
+        </p>
+
+        <p>
         If your screen <b>goes crazy</b> cross your fingers and try to reload 
         the page a couple times.  More about how this graph was generated can 
         be found on <a href="http://github.com/edsu/empirical-cloud">Github</a>.
+        The underlying data has been made available using  
+        <a href="http://vocab.deri.ie/void">VoID</a> 
+        <a href="sameas.rdf">rdf/xml</a> and 
+        <a href="sameas.ttl">Turtle</a> documents.
         </p>
-        <p id="graph_console">
-            <iframe id="graph" src="sameas.html"></iframe>
-        </iframe>
+
         <p>Comments, Question, Quibbles welcome on <a
             href="http://github.com/edsu/empirical-cloud/issues">Github</a>.
         </p>
+        </div>
+        </div>
+        <br />
+        <br />
+        <br />
     </body>
 
