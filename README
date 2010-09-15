@@ -4,7 +4,7 @@ Challenge Dataset. http://challenge.semanticweb.org/
 After downloading the BTC data into a directory called data you can generate 
 the json file that is used to display the graph with the following:
 
-zgrep -h 'http://www.w3.org/2002/07/owl#sameAs' btc-2010-chunk-*.gz | \
+zgrep -h 'http://www.w3.org/2002/07/owl#sameAs' data/btc-2010-chunk-*.gz | \
     scripts/quadtab.pl | \
     scripts/sameas.py | \
     sort | uniq -c | sort -rn | \
