@@ -1,10 +1,13 @@
 This is a little project to visualize owl:sameAs links in the Billion Triple 
 Challenge Dataset. http://challenge.semanticweb.org/
 
-After downloading the BTC data you can generate summary stats with:
+After downloading the BTC data into a directory called data you can generate 
+the json file that is used to display the graph with the following:
 
 zgrep -h 'http://www.w3.org/2002/07/owl#sameAs' btc-2010-chunk-*.gz | \
     scripts/quadtab.pl | \
     scripts/sameas.py | \
     sort | uniq -c | sort -rn | \
     scripts/jsonify.py > docs/sames.js
+
+You'll need to have recent versions of Perl, Python and pygraph installed.
