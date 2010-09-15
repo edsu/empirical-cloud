@@ -9,10 +9,17 @@
                 margin-top: 20px;
                 font-family: "Inconsolata";
             }
+            h1 {
+                text-decoration: underline;
+            }
+            #graph_console: {
+                margin-left: auto;
+                margin-right: auto;
+                text-align: center;
+            }
             #graph {
                 height: 350px;
                 width: 90%;
-                text-align: center;
             }
         </style>
     </head>
@@ -26,12 +33,20 @@
         data. It is probably best viewed with a 
         webkit browser like Chrome or Safari.  In order to make the graph 
         somewhat viewable it was limited to hosts that had more than 10 
-        links between them. You should be able to zoom in on portions 
+        links between each other. You should be able to zoom in on portions 
         of the graph, and to hover over a node to see the hostname. 
+        Node colors reflect 
+        <span style="color: lightgreen;">org|org.*</span>
+        <span style="color: yellow;">com|co.*</span>
+        <span style="color: orange;">gov</span>
+        <span style="color: red;">edu|ac.*</span>
+        <span style="color: pink;">net</span>
+        <span style="color: white; background-color: black;">other</span>
+        If your screen <b>goes crazy</b> try to reload the page.
         More about how this graph was generated can be found on 
         <a href="http://github.com/edsu/empirical-cloud">github</a>.
         </p>
-        <p>
+        <p id="graph_console">
             <iframe id="graph" src="sameas.html"></iframe>
         </iframe>
         <p>Comments, Question, Quibbles welcome at <a
