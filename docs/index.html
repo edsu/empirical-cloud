@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
+        <style type="text/css">
+            body {
+                margin-left: 10%;
+                margin-right: 10%;
+                margin-top: 20px;
+                font-family: "Inconsolata";
+            }
+            #graph {
+                height: 350px;
+                width: 90%;
+                text-align: center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Empirical Cloud</h1>
+        <p>
+        Below is a graph of <a
+            href="http://www.w3.org/TR/owl-ref/#sameAs-def">owl:sameAs</a> 
+        links between domain names in the 
+        <a href="http://challenge.semanticweb.org/">Billion Triple Challenge</a>
+        data. It is probably best viewed with a 
+        webkit browser like Chrome or Safari.  In order to make the graph 
+        somewhat viewable it was limited to hosts that had more than 10 
+        links between them. You should be able to zoom in on portions 
+        of the graph, and to hover over a node to see the hostname. 
+        More about how this graph was generated can be found on 
+        <a href="http://github.com/edsu/empirical-cloud">github</a>.
+        </p>
+        <p>
+            <iframe id="graph" src="sameas.html"></iframe>
+        </iframe>
+        <p>Comments, Question, Quibbles welcome at <a
+            href="mailto:ehs@pobox.com">ehs@pobox.com</a>
+        </p>
+    </body>
+
