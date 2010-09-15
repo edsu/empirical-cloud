@@ -1,0 +1,66 @@
+<html>
+  <head>
+    <title>Force-Directed Layout</title>
+    <script type="text/javascript" src="protovis-r3.2.js"></script>
+    <script type="text/javascript" src="sameas-2009.js"></script>
+    <style type="text/css">
+
+body {
+  margin: 0;
+}
+
+    </style>
+  </head>
+  <body>
+  <script type="text/javascript+protovis">
+
+function nodeColor(hostname) {
+    var parts = hostname.split(".");
+    var tld = parts[parts.length-1];
+    var other_tld = parts[parts.length-2];
+
+    if (tld == "org" || other_tld == "org")
+        return "lightgreen";
+    else if (tld == "com" || other_tld == "co")
+        return "yellow";
+    else if (tld == "gov" || other_tld == "gov")
+        return "orange";
+    else if (tld == "edu" || other_tld == "ac")
+        return "red";
+    else if (tld == "net" || other_tld == "net")
+        return "pink"
+    else 
+        return "white";
+}
+
+var w = document.body.clientWidth,
+    h = document.body.clientHeight,
+    colors = pv.Colors.category19();
+
+var vis = new pv.Panel()
+    .width(w)
+    .height(h)
+    .fillStyle("white")
+    .event("mousedown", pv.Behavior.pan())
+    .event("mousewheel", pv.Behavior.zoom());
+
+var force = vis.add(pv.Layout.Force)
+    .nodes(sameas.nodes)
+    .links(sameas.links);
+
+force.link.add(pv.Line);
+
+force.node.add(pv.Dot)
+    .size(function(d) (d.linkDegree + 4) * Math.pow(this.scale, -1.5))
+    .fillStyle(function(d) nodeColor(d.nodeName))
+    .strokeStyle(function() this.fillStyle().darker())
+    .lineWidth(1)
+    .title(function(d) d.nodeName)
+    .event("mousedown", pv.Behavior.drag())
+    .event("drag", force);
+
+vis.render();
+
+    </script>
+  </body>
+</html>

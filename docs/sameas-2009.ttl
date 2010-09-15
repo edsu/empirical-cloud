@@ -1,0 +1,1506 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 552 ;
+    void:objectsTarget [
+        dcterms:title "london.randomness.org.uk" ;
+        a void:Dataset ;
+        foaf:homepage <http://london.randomness.org.uk>
+    ] ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 143 ;
+    void:objectsTarget [
+        dcterms:title "miltonkeynes.openguides.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://miltonkeynes.openguides.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 50 ;
+    void:objectsTarget _:HVOQCweR350 ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 18 ;
+    void:objectsTarget [
+        dcterms:title "kegg.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://kegg.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 973 ;
+    void:objectsTarget [
+        dcterms:title "mesh.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://mesh.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+_:HVOQCweR1209
+    dcterms:title "www.w3.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.w3.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 17 ;
+    void:objectsTarget _:HVOQCweR1209 ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 30 ;
+    void:objectsTarget [
+        dcterms:title "nucleotide.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://nucleotide.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 466 ;
+    void:objectsTarget [
+        dcterms:title "omim.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://omim.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 16 ;
+    void:objectsTarget _:HVOQCweR1209 ;
+    void:subjectsTarget [
+        dcterms:title "rs.tdwg.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://rs.tdwg.org>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 82 ;
+    void:objectsTarget [
+        dcterms:title "apassant.net" ;
+        a void:Dataset ;
+        foaf:homepage <http://apassant.net>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 92 ;
+    void:objectsTarget [
+        dcterms:title "community.linkeddata.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://community.linkeddata.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 135 ;
+    void:objectsTarget _:HVOQCweR363 ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 134 ;
+    void:objectsTarget [
+        dcterms:title "korrekt.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://korrekt.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 92 ;
+    void:objectsTarget [
+        dcterms:title "mhausenblas.myopenid.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://mhausenblas.myopenid.com>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 82 ;
+    void:objectsTarget _:HVOQCweR346 ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 84 ;
+    void:objectsTarget [
+        dcterms:title "rdfa.info" ;
+        a void:Dataset ;
+        foaf:homepage <http://rdfa.info>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 29 ;
+    void:objectsTarget _:HVOQCweR388 ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 532 ;
+    void:objectsTarget _:HVOQCweR348 ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 44 ;
+    void:objectsTarget [
+        dcterms:title "sdow2008.semanticweb.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://sdow2008.semanticweb.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 52 ;
+    void:objectsTarget [
+        dcterms:title "semantic-mediawiki.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://semantic-mediawiki.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 52 ;
+    void:objectsTarget [
+        dcterms:title "semantic-web-grundlagen.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://semantic-web-grundlagen.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+_:HVOQCweR1286
+    dcterms:title "simia.net" ;
+    a void:Dataset ;
+    foaf:homepage <http://simia.net> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 164 ;
+    void:objectsTarget _:HVOQCweR1286 ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 92 ;
+    void:objectsTarget [
+        dcterms:title "sw-app.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://sw-app.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 24 ;
+    void:objectsTarget [
+        dcterms:title "pchem.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://pchem.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 134 ;
+    void:objectsTarget [
+        dcterms:title "www.aifb.uni-karlsruhe.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.aifb.uni-karlsruhe.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 16 ;
+    void:objectsTarget [
+        dcterms:title "www.informatik.uni-trier.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.informatik.uni-trier.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 21 ;
+    void:objectsTarget [
+        dcterms:title "www.ivan-herman.net" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.ivan-herman.net>
+    ] ;
+    void:subjectsTarget _:HVOQCweR350 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 172 ;
+    void:objectsTarget [
+        dcterms:title "pdb.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://pdb.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 24 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR1286 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 14 ;
+    void:objectsTarget _:HVOQCweR346 ;
+    void:subjectsTarget _:HVOQCweR1286 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 40 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget [
+        dcterms:title "social.semantic-web.at" ;
+        a void:Dataset ;
+        foaf:homepage <http://social.semantic-web.at>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 100 ;
+    void:objectsTarget [
+        dcterms:title "pfam.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://pfam.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+_:HVOQCweR1335
+    dcterms:title "species.geospecies.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://species.geospecies.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 99 ;
+    void:objectsTarget _:HVOQCweR35 ;
+    void:subjectsTarget _:HVOQCweR1335 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 185 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR1335 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 20 ;
+    void:objectsTarget _:HVOQCweR152 ;
+    void:subjectsTarget _:HVOQCweR1335 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 88947 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR394 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 285023 ;
+    void:objectsTarget _:HVOQCweR392 ;
+    void:subjectsTarget _:HVOQCweR394 ;
+    a void:LinkSet .
+
+_:HVOQCweR1387
+    dcterms:title "umbel.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://umbel.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 56245 ;
+    void:objectsTarget _:HVOQCweR1387 ;
+    void:subjectsTarget _:HVOQCweR394 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 30187 ;
+    void:objectsTarget _:HVOQCweR1209 ;
+    void:subjectsTarget _:HVOQCweR394 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 105798 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR331 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 30 ;
+    void:objectsTarget _:HVOQCweR388 ;
+    void:subjectsTarget _:HVOQCweR331 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 2226 ;
+    void:objectsTarget [
+        dcterms:title "rdf.insee.fr" ;
+        a void:Dataset ;
+        foaf:homepage <http://rdf.insee.fr>
+    ] ;
+    void:subjectsTarget _:HVOQCweR331 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 81 ;
+    void:objectsTarget [
+        dcterms:title "www.ordnancesurvey.co.uk" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.ordnancesurvey.co.uk>
+    ] ;
+    void:subjectsTarget _:HVOQCweR331 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 25 ;
+    void:objectsTarget [
+        dcterms:title "twitter.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://twitter.com>
+    ] ;
+    void:subjectsTarget [
+        dcterms:title "tommorris.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://tommorris.org>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 57 ;
+    void:objectsTarget [
+        dcterms:title "protein.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://protein.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1082 ;
+    void:objectsTarget _:HVOQCweR394 ;
+    void:subjectsTarget _:HVOQCweR1387 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 49 ;
+    void:objectsTarget [
+        dcterms:title "proteinid.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://proteinid.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 51 ;
+    void:objectsTarget [
+        dcterms:title "pubchem.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://pubchem.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 18 ;
+    void:objectsTarget _:HVOQCweR366 ;
+    void:subjectsTarget [
+        dcterms:title "users.ecs.soton.ac.uk" ;
+        a void:Dataset ;
+        foaf:homepage <http://users.ecs.soton.ac.uk>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 992 ;
+    void:objectsTarget [
+        dcterms:title "pubmed.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://pubmed.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+_:HVOQCweR150
+    dcterms:title "purl.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://purl.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 3308 ;
+    void:objectsTarget _:HVOQCweR150 ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 346 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget [
+        dcterms:title "wikicompany.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://wikicompany.org>
+    ] ;
+    a void:LinkSet .
+
+_:HVOQCweR152
+    dcterms:title "purl.uniprot.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://purl.uniprot.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 464783 ;
+    void:objectsTarget _:HVOQCweR1209 ;
+    void:subjectsTarget [
+        dcterms:title "wordnet.rkbexplorer.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://wordnet.rkbexplorer.com>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 49 ;
+    void:objectsTarget [
+        dcterms:title "annotation.semanticweb.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://annotation.semanticweb.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 79826 ;
+    void:objectsTarget _:HVOQCweR320 ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 59 ;
+    void:objectsTarget _:HVOQCweR152 ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 21090 ;
+    void:objectsTarget _:HVOQCweR363 ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 9533 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 23 ;
+    void:objectsTarget [
+        dcterms:title "swrc.ontoware.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://swrc.ontoware.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 32 ;
+    void:objectsTarget [
+        dcterms:title "ws.geonames.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://ws.geonames.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR323 ;
+    a void:LinkSet .
+
+_:HVOQCweR1637
+    dcterms:title "www.bibsonomy.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.bibsonomy.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 146 ;
+    void:objectsTarget [
+        dcterms:title "dblp.uni-trier.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://dblp.uni-trier.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 27 ;
+    void:objectsTarget [
+        dcterms:title "taxon.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://taxon.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 53 ;
+    void:objectsTarget [
+        dcterms:title "dx.doi.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://dx.doi.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1475 ;
+    void:objectsTarget [
+        dcterms:title "taxonomy.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://taxonomy.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 21 ;
+    void:objectsTarget [
+        dcterms:title "gso.gbv.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://gso.gbv.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 28 ;
+    void:objectsTarget [
+        dcterms:title "homepages.cwi.nl" ;
+        a void:Dataset ;
+        foaf:homepage <http://homepages.cwi.nl>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 29 ;
+    void:objectsTarget [
+        dcterms:title "tigr.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://tigr.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 98 ;
+    void:objectsTarget [
+        dcterms:title "portal.acm.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://portal.acm.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 25 ;
+    void:objectsTarget [
+        dcterms:title "tissues.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://tissues.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 69 ;
+    void:objectsTarget [
+        dcterms:title "unigene.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://unigene.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 2556 ;
+    void:objectsTarget [
+        dcterms:title "uniparc.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://uniparc.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 20 ;
+    void:objectsTarget [
+        dcterms:title "web-imtm.iaw.ruhr-uni-bochum.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://web-imtm.iaw.ruhr-uni-bochum.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 11840 ;
+    void:objectsTarget [
+        dcterms:title "uniprot.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://uniprot.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 18 ;
+    void:objectsTarget [
+        dcterms:title "www.amazon.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.amazon.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 24447 ;
+    void:objectsTarget [
+        dcterms:title "uniref.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://uniref.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1363 ;
+    void:objectsTarget [
+        dcterms:title "unists.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://unists.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 51 ;
+    void:objectsTarget [
+        dcterms:title "www.kde.cs.uni-kassel.de" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.kde.cs.uni-kassel.de>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 23 ;
+    void:objectsTarget [
+        dcterms:title "www.ontopia.net" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.ontopia.net>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 52 ;
+    void:objectsTarget [
+        dcterms:title "www.sciencedirect.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.sciencedirect.com>
+    ] ;
+    void:subjectsTarget _:HVOQCweR1637 ;
+    a void:LinkSet .
+
+_:HVOQCweR204
+    dcterms:title "dbpedia.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://dbpedia.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 78 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget [
+        dcterms:title "cb.semsol.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://cb.semsol.org>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 22 ;
+    void:objectsTarget _:HVOQCweR331 ;
+    void:subjectsTarget [
+        dcterms:title "www.daml.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.daml.org>
+    ] ;
+    a void:LinkSet .
+
+_:HVOQCweR2082
+    dcterms:title "www.eionet.europa.eu" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.eionet.europa.eu> .
+
+_:HVOQCweR2083
+    dcterms:title "www.geonames.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.geonames.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 77 ;
+    void:objectsTarget _:HVOQCweR2083 ;
+    void:subjectsTarget _:HVOQCweR2082 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 88 ;
+    void:objectsTarget [
+        dcterms:title "norman.walsh.name" ;
+        a void:Dataset ;
+        foaf:homepage <http://norman.walsh.name>
+    ] ;
+    void:subjectsTarget [
+        dcterms:title "www.flickr.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.flickr.com>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 77 ;
+    void:objectsTarget _:HVOQCweR2082 ;
+    void:subjectsTarget _:HVOQCweR2083 ;
+    a void:LinkSet .
+
+_:HVOQCweR2186
+    dcterms:title "www.lingvoj.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.lingvoj.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1012 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR2186 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 368 ;
+    void:objectsTarget [
+        dcterms:title "downlode.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://downlode.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR2186 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 920 ;
+    void:objectsTarget [
+        dcterms:title "psi.oasis-open.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://psi.oasis-open.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR2186 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 536 ;
+    void:objectsTarget _:HVOQCweR392 ;
+    void:subjectsTarget _:HVOQCweR2186 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 24 ;
+    void:objectsTarget [
+        dcterms:title "www.cs.umd.edu" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.cs.umd.edu>
+    ] ;
+    void:subjectsTarget [
+        dcterms:title "www.mindswap.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.mindswap.org>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 11885 ;
+    void:objectsTarget _:HVOQCweR331 ;
+    void:subjectsTarget _:HVOQCweR402 ;
+    a void:LinkSet .
+
+_:HVOQCweR2306
+    dcterms:title "www.surgeradio.co.uk" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.surgeradio.co.uk> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 113 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR2306 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 125 ;
+    void:objectsTarget [
+        dcterms:title "musicbrainz.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://musicbrainz.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR2306 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 125 ;
+    void:objectsTarget _:HVOQCweR333 ;
+    void:subjectsTarget _:HVOQCweR2306 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 959 ;
+    void:objectsTarget _:HVOQCweR152 ;
+    void:subjectsTarget [
+        dcterms:title "www.uniprot.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.uniprot.org>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 24 ;
+    void:objectsTarget [
+        dcterms:title "acronym.deri.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://acronym.deri.org>
+    ] ;
+    void:subjectsTarget [
+        dcterms:title "compsoc.nuigalway.ie" ;
+        a void:Dataset ;
+        foaf:homepage <http://compsoc.nuigalway.ie>
+    ] ;
+    a void:LinkSet .
+
+_:HVOQCweR320
+    dcterms:title "data.linkedct.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://data.linkedct.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 3776 ;
+    void:objectsTarget _:HVOQCweR35 ;
+    void:subjectsTarget _:HVOQCweR320 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 6554 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR320 ;
+    a void:LinkSet .
+
+_:HVOQCweR323
+    dcterms:title "www4.wiwiss.fu-berlin.de" ;
+    a void:Dataset ;
+    foaf:homepage <http://www4.wiwiss.fu-berlin.de> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 9744 ;
+    void:objectsTarget _:HVOQCweR323 ;
+    void:subjectsTarget _:HVOQCweR320 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 6540 ;
+    void:objectsTarget [
+        dcterms:title "yago.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://yago.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR320 ;
+    a void:LinkSet .
+
+_:HVOQCweR327
+    dcterms:title "data.linkedmdb.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://data.linkedmdb.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 22668 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR327 ;
+    a void:LinkSet .
+
+_:HVOQCweR329
+    dcterms:title "mpii.de" ;
+    a void:Dataset ;
+    foaf:homepage <http://mpii.de> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 21836 ;
+    void:objectsTarget _:HVOQCweR329 ;
+    void:subjectsTarget _:HVOQCweR327 ;
+    a void:LinkSet .
+
+_:HVOQCweR331
+    dcterms:title "sws.geonames.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://sws.geonames.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 98 ;
+    void:objectsTarget _:HVOQCweR331 ;
+    void:subjectsTarget _:HVOQCweR327 ;
+    a void:LinkSet .
+
+_:HVOQCweR333
+    dcterms:title "zitgist.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://zitgist.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 2091 ;
+    void:objectsTarget _:HVOQCweR333 ;
+    void:subjectsTarget _:HVOQCweR327 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 67 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget [
+        dcterms:title "data.openlinksw.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://data.openlinksw.com>
+    ] ;
+    a void:LinkSet .
+
+_:HVOQCweR343
+    dcterms:title "data.semanticweb.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://data.semanticweb.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 296 ;
+    void:objectsTarget [
+        dcterms:title "iswc2007.semanticweb.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://iswc2007.semanticweb.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR343 ;
+    a void:LinkSet .
+
+_:HVOQCweR346
+    dcterms:title "ontoworld.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://ontoworld.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 2552 ;
+    void:objectsTarget _:HVOQCweR346 ;
+    void:subjectsTarget _:HVOQCweR343 ;
+    a void:LinkSet .
+
+_:HVOQCweR348
+    dcterms:title "revyu.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://revyu.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 983 ;
+    void:objectsTarget _:HVOQCweR348 ;
+    void:subjectsTarget _:HVOQCweR343 ;
+    a void:LinkSet .
+
+_:HVOQCweR35
+    dcterms:title "bio2rdf.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://bio2rdf.org> .
+
+_:HVOQCweR350
+    dcterms:title "semanticweb.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://semanticweb.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1227 ;
+    void:objectsTarget _:HVOQCweR350 ;
+    void:subjectsTarget _:HVOQCweR343 ;
+    a void:LinkSet .
+
+_:HVOQCweR363
+    dcterms:title "dblp.l3s.de" ;
+    a void:Dataset ;
+    foaf:homepage <http://dblp.l3s.de> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 193933 ;
+    void:objectsTarget [
+        dcterms:title "bibsonomy.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://bibsonomy.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR363 ;
+    a void:LinkSet .
+
+_:HVOQCweR366
+    dcterms:title "dblp.rkbexplorer.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://dblp.rkbexplorer.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 193931 ;
+    void:objectsTarget _:HVOQCweR366 ;
+    void:subjectsTarget _:HVOQCweR363 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 17 ;
+    void:objectsTarget [
+        dcterms:title "annotation.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://annotation.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1165335 ;
+    void:objectsTarget _:HVOQCweR363 ;
+    void:subjectsTarget _:HVOQCweR366 ;
+    a void:LinkSet .
+
+_:HVOQCweR382
+    dcterms:title "dbpedia.openlinksw.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://dbpedia.openlinksw.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1083 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR382 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1082 ;
+    void:objectsTarget _:HVOQCweR382 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 2529 ;
+    void:objectsTarget [
+        dcterms:title "quotationsbook.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://quotationsbook.com>
+    ] ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+_:HVOQCweR388
+    dcterms:title "rdf.freebase.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://rdf.freebase.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 227941 ;
+    void:objectsTarget _:HVOQCweR388 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 14 ;
+    void:objectsTarget _:HVOQCweR348 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+_:HVOQCweR392
+    dcterms:title "sw.cyc.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://sw.cyc.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1055 ;
+    void:objectsTarget _:HVOQCweR392 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+_:HVOQCweR394
+    dcterms:title "sw.opencyc.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://sw.opencyc.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 62789 ;
+    void:objectsTarget _:HVOQCweR394 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 108584 ;
+    void:objectsTarget _:HVOQCweR331 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 10156 ;
+    void:objectsTarget _:HVOQCweR323 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+_:HVOQCweR402
+    dcterms:title "www.rdfabout.com" ;
+    a void:Dataset ;
+    foaf:homepage <http://www.rdfabout.com> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 12731 ;
+    void:objectsTarget _:HVOQCweR402 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 31694 ;
+    void:objectsTarget _:HVOQCweR333 ;
+    void:subjectsTarget _:HVOQCweR204 ;
+    a void:LinkSet .
+
+_:HVOQCweR405
+    dcterms:title "dbtune.org" ;
+    a void:Dataset ;
+    foaf:homepage <http://dbtune.org> .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 41 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR405 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 3394 ;
+    void:objectsTarget _:HVOQCweR333 ;
+    void:subjectsTarget _:HVOQCweR405 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 476 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget [
+        dcterms:title "demo.openlinksw.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://demo.openlinksw.com>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 22 ;
+    void:objectsTarget [
+        dcterms:title "biogrid.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://biogrid.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 43 ;
+    void:objectsTarget [
+        dcterms:title "cas.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://cas.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 31 ;
+    void:objectsTarget [
+        dcterms:title "chebi.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://chebi.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 44 ;
+    void:objectsTarget [
+        dcterms:title "cpd.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://cpd.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 33 ;
+    void:objectsTarget [
+        dcterms:title "foaf.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://foaf.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 1691358 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR329 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 59 ;
+    void:objectsTarget [
+        dcterms:title "genbank.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://genbank.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 164 ;
+    void:objectsTarget [
+        dcterms:title "geneid.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://geneid.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 53 ;
+    void:objectsTarget [
+        dcterms:title "gi.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://gi.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 5543 ;
+    void:objectsTarget _:HVOQCweR331 ;
+    void:subjectsTarget [
+        dcterms:title "ontologycentral.com" ;
+        a void:Dataset ;
+        foaf:homepage <http://ontologycentral.com>
+    ] ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 78 ;
+    void:objectsTarget [
+        dcterms:title "go.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://go.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 183 ;
+    void:objectsTarget [
+        dcterms:title "hgnc.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://hgnc.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 50 ;
+    void:objectsTarget [
+        dcterms:title "www.perceive.net" ;
+        a void:Dataset ;
+        foaf:homepage <http://www.perceive.net>
+    ] ;
+    void:subjectsTarget _:HVOQCweR150 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 126 ;
+    void:objectsTarget _:HVOQCweR343 ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 20 ;
+    void:objectsTarget _:HVOQCweR204 ;
+    void:subjectsTarget _:HVOQCweR348 ;
+    a void:LinkSet .
+
+[]
+    void:linkPredicate <http://www.w3.org/2002/07/owl#sameAs> ;
+    void:numberOfTriples 15 ;
+    void:objectsTarget [
+        dcterms:title "interpro.bio2rdf.org" ;
+        a void:Dataset ;
+        foaf:homepage <http://interpro.bio2rdf.org>
+    ] ;
+    void:subjectsTarget _:HVOQCweR35 ;
+    a void:LinkSet .
+
