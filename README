@@ -10,4 +10,4 @@ zgrep -h 'http://www.w3.org/2002/07/owl#sameAs' data/btc-2010-chunk-*.gz | \
     sort | uniq -c | sort -rn | \
     scripts/jsonify.py > docs/sames.js
 
-You'll need to have recent versions of Perl, Python and pygraph installed.
+You'll need to have recent-ish versions of Perl, Python and pygraph installed.
