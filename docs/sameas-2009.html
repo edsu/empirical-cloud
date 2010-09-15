@@ -46,7 +46,8 @@ var vis = new pv.Panel()
 
 var force = vis.add(pv.Layout.Force)
     .nodes(sameas.nodes)
-    .links(sameas.links);
+    .links(sameas.links)
+    .bound(true);
 
 force.link.add(pv.Line);
 
