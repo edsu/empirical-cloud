@@ -1,5 +1,5 @@
 This is a little project to visualize owl:sameAs links in the Billion Triple 
-Challenge Dataset. http://challenge.semanticweb.org/
+Challenge Dataset: http://challenge.semanticweb.org/
 
 After downloading the BTC data into a directory called data you can generate 
 the json file that is used to display the graph with the following:
